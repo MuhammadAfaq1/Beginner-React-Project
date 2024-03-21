@@ -64,7 +64,7 @@ catch(err){
     },[])
     return <div className="post">
                 <div className="title">
-                <h1>{post.title}</h1>
+                <h2>{post.title}</h2>
                 </div>
                 <div className="body">
                     <p>{post.description}</p>

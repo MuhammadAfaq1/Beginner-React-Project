@@ -82,9 +82,18 @@ input , textarea{
 
 
 .post{
-  background-color: #55668a;
-}
+  background-color: #1e2730;
+  color: white;
+  width: fit-content;
+  margin: 10px auto;
+  padding: 10px auto;
+  border-radius: 3%;
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
 
+}
+h2{
+  color:  #5e87df;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
