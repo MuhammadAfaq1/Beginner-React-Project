@@ -62,7 +62,7 @@ catch(err){
     useEffect (()=>{
         getLikes()
     },[])
-    return <div>
+    return <div className="post">
                 <div className="title">
                 <h1>{post.title}</h1>
                 </div>

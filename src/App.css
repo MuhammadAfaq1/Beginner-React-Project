@@ -81,9 +81,10 @@ input , textarea{
 }
 
 
-.title , .body , footer{
-  background-color: #1f2b44;
+.post{
+  background-color: #55668a;
 }
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
